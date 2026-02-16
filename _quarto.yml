@@ -1,0 +1,13 @@
+project:
+  type: website
+
+website:
+  title: "Iandra Barbosa"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    page-layout: full
